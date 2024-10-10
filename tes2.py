@@ -12,13 +12,13 @@ options = Options()
 options.add_argument('--disable-gpu')  # Disable GPU acceleration
 
 # Use the Service object to specify the path to the ChromeDriver
-service = Service(executable_path="chromedriver.exe")
+service = Service(executable_path="FODS/FoDS-FinalProject/chromedriver.exe")
 
 # Pass the Service object and options to the Chrome driver
 driver = webdriver.Chrome(service=service, options=options)
 
 # Open the job portal (e.g., Indeed)
-driver.get('https://www.indeed.com/jobs?q=game+developer&l=')
+driver.get('https://www.indeed.com/jobs?q=fullstack+developer&l=')
 
 # Wait for the page to load
 time.sleep(10)
@@ -51,7 +51,7 @@ entry_limit = 200
 entries_processed = 0  # Counter for how many job entries have been scraped
 
 # Open the CSV file for writing
-with open('jobdata3.csv', mode='w', newline='', encoding='utf-8') as file:
+with open('jobdata6.csv', mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
 
     # Write the header row
