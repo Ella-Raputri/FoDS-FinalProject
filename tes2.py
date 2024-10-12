@@ -17,7 +17,7 @@ service = Service(executable_path="chromedriver.exe")
 driver = webdriver.Chrome(service=service, options=options)
 
 # Open the job portal (e.g., Indeed)
-driver.get('https://id.indeed.com/jobs?q=back+end&l=')
+driver.get('https://id.indeed.com/jobs?q=game+developer&l=')
 
 # Wait for the page to load
 time.sleep(10)
@@ -50,7 +50,7 @@ entry_limit = 500
 entries_processed = 0  # Counter for how many job entries have been scraped
 
 # Open the CSV file for writing
-with open('jobdata2.csv', mode='w', newline='', encoding='utf-8') as file:
+with open('jobdata8.csv', mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
 
     # Write the header row
