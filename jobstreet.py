@@ -17,7 +17,7 @@ service = Service(executable_path="chromedriver.exe")
 driver = webdriver.Chrome(service=service, options=options)
 
 # Open the JobStreet portal (adjust the search query as needed)
-driver.get('https://www.jobstreet.co.id/en/job-search/it-developer-jobs/')
+driver.get('https://www.jobstreet.co.id/en/job-search/software-developer-jobs/')
 
 # Wait for the page to load
 time.sleep(10)
@@ -38,7 +38,7 @@ entry_limit = 1500
 entries_processed = 0
 
 # Open the CSV file for writing
-with open('jobstreet2.csv', mode='w', newline='', encoding='utf-8') as file:
+with open('jobstreet13.csv', mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     writer.writerow(['Job Title', 'Company Name', 'Location', 'Salary', 'Job Type', 'Job Description', 'Date'])
 
