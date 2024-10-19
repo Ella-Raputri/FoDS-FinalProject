@@ -1,0 +1,177 @@
+programming language,tiobe index ratings,job amount,average salary,location,linkedin skill,avg wiki views (monthly),github user count,average search count
+Java,10.51,728,6153528.08741731,"['East Kalimantan', 'West Java', 'Bali', 'Yogyakarta', 'East Java', 'Lampung', 'Jakarta', 'Central Java', 'South Sulawesi', 'Banten', 'North Sumatra', 'South Sumatra']",103000,3946.7567567567567,6800,28.13393
+JavaScript,3.54,1111,6168157.003505131,"['East Kalimantan', 'West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'West Nusa Tenggara', 'West Kalimantan', 'Central Java', 'Banten', 'North Sumatra', 'West Papua']",118000,5305.108108108108,11400,15.48214286
+Dart,0.56,32,6250160.575302064,"['West Java', 'Yogyakarta', 'East Java', 'Jakarta', 'Banten', 'North Sumatra']",945,51.125,877,37.0
+Node.js,0.0,450,5596209.021148038,"['West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'Central Java', 'Banten', 'North Sumatra']",34000,665.1801801801802,-1,2.633928571
+PHP,1.21,505,5762279.073145573,"['West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'West Nusa Tenggara', 'West Kalimantan', 'Central Java', 'Banten', 'North Sumatra', 'South Sumatra']",123000,4107.522522522522,8600,26.61607143
+Visual Basic,2.35,234,7144311.004662363,"['East Kalimantan', 'West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'West Nusa Tenggara', 'Central Java', 'Banten', 'North Sumatra']",32000,4833.774774774774,0,32.79464
+MySQL,0.0,511,5282098.994573214,"['East Kalimantan', 'West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'West Kalimantan', 'Central Java', 'Banten', 'North Sumatra']",129000,3249.009009009009,-1,56.24107
+TypeScript,0.32,211,6615735.536738093,"['West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'Banten', 'North Sumatra', 'West Papua']",14000,-1.0,1600,4.0
+SQL,1.64,793,6759264.31838862,"['East Kalimantan', 'West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'Riau Islands', 'West Nusa Tenggara', 'Central Java', 'Banten', 'North Sumatra', 'West Papua']",143000,1507.7207207207207,6,58.90179
+PostgreSQL,0.0,365,5041078.898883171,"['East Kalimantan', 'West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'Central Java', 'Banten', 'North Sumatra']",36000,546.4594594594595,-1,13.91071
+Flow,0.0,120,9290698.169868832,"['West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'Riau Islands', 'Central Java', 'Banten', 'West Papua']",0,-1.0,-1,0.0
+CHAIN,0.0,64,15192250.868864454,"['West Java', 'East Java', 'Jakarta', 'Central Java', 'Banten']",0,-1.0,-1,0.0
+Z++,0.0,99,11847031.221049825,"['East Kalimantan', 'West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'Central Java', 'Banten']",0,-1.0,-1,0.0
+FOCUS,0.0,326,8253786.878237909,"['East Kalimantan', 'West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'West Nusa Tenggara', 'Central Java', 'Banten']",0,-1.0,-1,0.0
+Python,21.9,675,6328999.928444785,"['East Kalimantan', 'West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'West Nusa Tenggara', 'Central Java', 'Banten', 'North Sumatra']",113000,5593.468468468468,6100,45.95536
+kernel,0.0,1,34507957.0,['Jakarta'],0,1852.2792792792795,-1,35.96428571
+Address,0.0,141,6299805.372725985,"['East Kalimantan', 'West Java', 'Bali', 'East Java', 'Jakarta', 'Riau Islands', 'Central Java', 'Banten']",0,-1.0,-1,0.0
+ASP.NET,0.0,84,5711475.593743629,"['West Java', 'Bali', 'East Java', 'Jakarta', 'Central Java', 'Banten', 'West Papua']",12000,15.954954954954957,8,12.64285714
+C#,5.62,225,6280696.306146191,"['West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'Central Java', 'Banten', 'North Sumatra', 'West Papua']",32000,501.52272727272725,1200,51.38392857
+JS++,0.0,181,5600773.319669451,"['West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'Central Java', 'Banten', 'North Sumatra']",0,-1.0,-1,0.0
+C,8.38,362,5928978.561136166,"['West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'Central Java', 'Banten', 'North Sumatra', 'West Papua']",25000,1236.4144144144143,1200,31.53571
+GraphQL,0.0,62,5751854.840652354,"['West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'Banten', 'North Sumatra']",4200,-1.0,-1,1.0
+Go,2.02,211,7847129.7347823875,"['West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'West Nusa Tenggara', 'Central Java', 'Banten']",15000,92.63963963963964,1000,36.91964
+Ada,0.73,71,7701312.460197072,"['East Kalimantan', 'West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'Central Java', 'Banten', 'North Sumatra']",0,200.34234234234236,0,0.0
+Ruby,0.99,112,7351875.455507939,"['East Kalimantan', 'West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'Central Java', 'Banten', 'North Sumatra']",3500,861.2702702702703,1100,2.428571
+MariaDB,0.0,24,5157964.20480754,"['Bali', 'Jakarta']",2600,284.5315315315315,-1,57.61607
+Scheme,0.05,6,11844474.673449611,"['Bali', 'Yogyakarta', 'East Java']",0,-1.0,1,0.0
+Expect,0.0,33,17920520.2997776,"['East Java', 'Banten', 'Jakarta']",0,-1.0,-1,0.0
+Copilot,0.0,8,10416144.382139197,[],0,-1.0,-1,0.0
+Solidity,0.27,4,9521067.869493987,"['Central Java', 'Jakarta']",1000,76.61842105263158,78,12.52273
+solid,0.0,338,6382359.167111682,"['West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'Central Java', 'Banten']",0,-1.0,-1,0.0
+pipelines,0.0,244,5560387.992877893,"['East Kalimantan', 'West Java', 'Bali', 'Yogyakarta', 'Jakarta', 'Central Java', 'Banten']",0,-1.0,-1,0.0
+RAPID,0.0,31,5498341.381929189,"['West Java', 'Banten', 'Jakarta']",0,-1.0,-1,0.0
+NPL,0.0,1,11004708.625,['East Java'],0,-1.0,-1,0.0
+april,0.0,3,4708513.986111111,['Jakarta'],0,-1.0,-1,0.0
+flagship,0.0,11,6203420.772235206,"['Bali', 'East Java', 'West Java', 'Jakarta']",0,-1.0,-1,0.0
+Swift,0.98,96,6856960.628534172,"['East Java', 'Jakarta', 'Central Java', 'Banten', 'North Sumatra']",4600,180.59459459459455,271,0.0
+Small,0.0,72,13011626.419631569,"['West Java', 'Bali', 'Yogyakarta', 'Jakarta', 'Central Java', 'Banten']",0,-1.0,-1,0.0
+Kotlin,0.97,117,6101024.9262127,"['West Java', 'East Java', 'Jakarta', 'Central Java', 'Banten', 'North Sumatra']",8300,362.4390243902439,1100,8.455556
+Simplicity,0.0,5,10856018.1374031,"['Bali', 'Jakarta']",0,-1.0,-1,0.0
+Perl,0.56,18,7126649.348725472,"['East Kalimantan', 'Central Java', 'Jakarta']",1200,359.4684684684685,42,1.651786
+C++,11.6,118,5903931.743223736,"['West Java', 'East Java', 'Jakarta', 'Central Java', 'Banten', 'North Sumatra']",58000,5386.315315315315,2500,50.67857
+Scratch,1.41,25,6819342.410831299,"['Jakarta', 'East Java', 'Banten', 'West Java']",1000,2159.153153153153,-1,18.33929
+R,1.09,148,8115521.460633558,"['West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'West Nusa Tenggara', 'Central Java', 'Banten']",21000,821.0990990990991,301,39.88393
+F,0.0,14,15115687.341627616,"['Bali', 'Central Java', 'East Java', 'Jakarta']",0,-1.0,-1,0.0
+Rust,1.45,27,8891196.888704723,"['West Java', 'East Java', 'Jakarta', 'Central Java', 'Banten']",856,154.4022988505747,101,2.373134
+Groovy,0.05,10,10062850.58605517,['Jakarta'],435,-1.0,44,1.0
+Scala,0.64,36,6069870.496656338,"['Bali', 'West Java', 'Jakarta']",584,387.82608695652175,16,2.973214
+Revolution,,61,3054643.915108728,"['South Kalimantan', 'Riau', 'West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'Riau Islands', 'South Sulawesi', 'Central Java', 'Banten', 'North Sumatra', 'South Sumatra']",0,-1.0,-1,0.0
+MATLAB,1.48,17,5764911.548656295,"['Yogyakarta', 'East Java', 'Jakarta', 'Central Java', 'Banten']",34000,994.981981981982,109,50.57143
+Apex,0.05,11,7816074.484489086,"['East Java', 'Banten', 'Jakarta']",0,-1.0,-1,0.0
+Click,0.0,54,8351127.926814728,"['West Java', 'Bali', 'Yogyakarta', 'East Java', 'Jakarta', 'Banten']",0,-1.0,0,0.0
+Adept,0.0,21,7698934.300564067,"['Jakarta', 'East Java', 'Banten', 'West Java']",0,-1.0,-1,0.0
+.QL,0.0,26,4766819.031018988,"['Central Java', 'East Java', 'Jakarta']",0,-1.0,-1,0.0
+dss,0.0,2,8298783.857954545,['Jakarta'],0,-1.0,-1,0.0
+SPARK,0.05,82,3916176.649491272,"['Bali', 'East Java', 'Banten', 'Jakarta']",0,-1.0,-1,0.0
+Pure,0.0,3,10880799.885335917,"['East Java', 'Jakarta']",0,-1.0,5,0.0
+GAP,0.0,23,27730938.96393032,"['West Java', 'Jakarta', 'West Nusa Tenggara', 'Central Java', 'Banten']",0,-1.0,-1,0.0
+Falcon,0.0,2,11286666.666666668,['Jakarta'],0,-1.0,-1,0.0
+Alpha,0.0,3,8374726.930320151,['Jakarta'],0,-1.0,-1,0.0
+Plot,0.0,46,9235123.102766791,"['West Java', 'Lampung', 'East Java', 'Jakarta', 'Central Java', 'South Sulawesi', 'South Sumatra']",0,-1.0,-1,0.0
+Joy,0.0,57,6746368.332314458,"['Bali', 'Yogyakarta', 'East Java', 'Jakarta']",0,-1.0,-1,0.0
+CONVERT,0.0,23,10261980.620536214,"['Bali', 'Yogyakarta', 'West Java', 'Jakarta']",0,-1.0,-1,0.0
+Frank,0.0,1,9373333.333333334,['Bali'],0,-1.0,-1,0.0
+P,0.0,38,12245767.634765225,"['East Kalimantan', 'Banten', 'Jakarta']",0,-1.0,-1,0.0
+lever,0.0,1,9373333.333333334,['Jakarta'],0,-1.0,-1,0.0
+JADE,0.0,5,7745929.005253856,['Jakarta'],0,-1.0,-1,0.0
+Blue,0.0,3,85880514.92929292,"['Bali', 'Banten']",0,-1.0,-1,0.0
+THINK C,0.0,11,5742402.231619129,['Jakarta'],0,-1.0,-1,0.0
+Inform,0.05,32,8375049.3760997085,"['East Kalimantan', 'West Java', 'Yogyakarta', 'East Java', 'Jakarta', 'Central Java', 'Banten']",0,-1.0,-1,0.0
+NATURAL,0.05,68,9016125.28043656,"['Bali', 'West Java', 'Banten', 'Jakarta']",0,-1.0,-1,0.0
+Reason,0.0,11,20211266.15093236,['Jakarta'],0,-1.0,-1,0.0
+ARM,0.0,6,4633452.373737373,['Jakarta'],0,-1.0,-1,0.0
+SR,0.0,6,6667699.874120644,"['Yogyakarta', 'West Java', 'Jakarta']",0,-1.0,-1,0.0
+Crystal,0.05,11,5114617.806365192,"['Banten', 'Jakarta']",0,-1.0,9,0.0
+PowerHouse,0.0,11,6412519.519480521,"['East Java', 'West Java', 'Jakarta']",0,-1.0,-1,0.0
+Conceptual,0.0,22,6264479.335630361,"['Bali', 'North Sumatra', 'Banten', 'Jakarta']",0,-1.0,-1,0.0
+Factor,0.0,10,7026807.65904218,"['Central Java', 'Jakarta']",0,-1.0,0,0.0
+False,0.0,2,5447083.333333334,['Jakarta'],0,-1.0,-1,0.0
+RPL,0.0,4,7686666.666666667,"['Yogyakarta', 'Jakarta']",0,-1.0,-1,0.0
+SQLite,0.0,12,5033166.800400964,"['Central Java', 'East Java', 'Jakarta']",3600,287.52252252252254,-1,31.44643
+fe,0.0,7,4044916.808463504,['Jakarta'],0,-1.0,-1,0.0
+Chrome,0.0,3,10337008.121447029,"['West Java', 'Jakarta']",0,-1.0,-1,0.0
+Tao,0.0,4,7667711.864406779,['Jakarta'],0,-1.0,-1,0.0
+Flavors,0.0,4,4648998.8566308245,"['Central Java', 'Jakarta']",0,-1.0,-1,0.0
+Cyber,0.0,15,4851949.876868513,"['Central Java', 'West Java', 'Jakarta']",0,-1.0,-1,0.0
+Bash,0.05,42,6491318.345677298,"['East Kalimantan', 'Yogyakarta', 'Jakarta', 'Central Java', 'Banten']",319,51.25,-1,0.0
+DEMOS,0.0,7,8340721.645021646,"['West Java', 'Jakarta']",0,-1.0,-1,0.0
+Q,0.05,4,13753915.681818182,['Jakarta'],0,-1.0,-1,0.0
+PROMETHEUS,0.0,29,4657207.470512622,"['North Sumatra', 'Yogyakarta', 'Central Java', 'Jakarta']",152,-1.0,-1,0.0
+Gist,0.0,3,4191111.111111112,['Jakarta'],0,-1.0,-1,0.0
+PILOT,0.0,6,10826544.252877614,['Jakarta'],0,-1.0,-1,0.0
+REDUCE,0.0,28,5395293.120739435,"['West Java', 'Bali', 'East Java', 'Jakarta', 'Riau Islands', 'Banten']",0,-1.0,-1,0.0
+Monkey,0.0,1,9373333.333333334,['Jakarta'],0,-1.0,-1,0.0
+Z,0.0,1,9373333.333333334,['Bali'],0,-1.0,-1,0.0
+abs,0.0,1,9373333.333333334,['Jakarta'],0,-1.0,-1,0.0
+FaCT,0.0,5,29778526.01832276,"['Bali', 'Jakarta']",0,-1.0,-1,0.0
+MACRO,0.0,2,68067052.86363636,['Jakarta'],0,-1.0,-1,0.0
+FLUX,0.0,4,11001366.058827206,"['Banten', 'Jakarta']",0,-1.0,0,0.0
+ECMAScript,0.0,3,13176238.465116275,"['Yogyakarta', 'Jakarta']",68,-1.0,-1,2.741071
+Argus,0.0,3,10322222.222222224,['Jakarta'],0,-1.0,-1,0.0
+Assembly,1.13,6,9375530.66194122,"['Riau Islands', 'Central Java', 'East Java']",2200,1327.882882882883,48,54.96429
+PowerShell,0.21,21,5552177.658067975,"['Central Java', 'Jakarta']",847,8.558558558558559,46,23.9375
+Visual FoxPro,0.67,5,4916170.059592846,"['East Java', 'Jakarta']",1500,480.0810810810811,-1,9.125
+FoxPRO,0.67,6,4637549.741552597,"['East Java', 'Jakarta']",1600,16.63063063063063,-1,3.1875
+Delphi,1.68,5,5088090.1441868255,"['East Java', 'Jakarta']",770,448.5495495495496,-1,0.0
+SCM,0.0,2,9190476.19047619,['Jakarta'],0,-1.0,-1,0.0
+Red,0.0,14,9600474.90325898,"['Riau Islands', 'Yogyakarta', 'West Java', 'Jakarta']",0,-1.0,0,0.0
+MetaL,0.0,3,6789724.960127592,['Jakarta'],0,-1.0,0,0.0
+SaltStack,0.0,1,14000000.0,['Jakarta'],31,-1.0,0,0.0
+bamboo,0.0,13,4155178.345026291,['Jakarta'],0,-1.0,-1,0.0
+Mercury,0.0,3,12842905.131782943,['Jakarta'],0,-1.0,0,0.0
+UNITY,0.0,12,6091128.553806561,"['Bali', 'East Java', 'Banten', 'Jakarta']",10000,604.6444444444444,-1,26.0625
+Arduino,0.0,2,3889331.25,['Jakarta'],23000,3293.4144144144143,-1,65.04464
+SAS,0.76,15,3107142.7691049664,"['Yogyakarta', 'Central Java', 'Banten', 'Jakarta']",3800,165.94594594594594,1,0.0
+SPSS,0.0,22,2049910.28708134,"['Riau Islands', 'Central Java', 'Banten', 'Jakarta']",83000,1579.3423423423424,-1,0.0
+SIGNAL,0.0,4,2974287.2807017546,['Central Java'],0,-1.0,-1,0.0
+Spatial,0.0,15,3137366.9030568367,['Jakarta'],450,-1.0,-1,0.0
+AL,0.0,5,5022470.8556217095,"['Central Java', 'Banten', 'Jakarta']",0,-1.0,-1,0.0
+jasper,0.0,3,11754785.899224805,"['Banten', 'Jakarta']",0,-1.0,-1,0.0
+PowerBuilder,0.0,1,11000000.0,['Jakarta'],527,-1.0,0,1.030303
+SRL,0.0,2,11632178.848837208,['Central Java'],0,-1.0,-1,2.25
+Logos,0.21,2,6813000.0,['Jakarta'],0,-1.0,-1,0.0
+Virgil,0.0,1,11000000.0,['Jakarta'],0,-1.0,-1,0.0
+Dale,0.0,1,11000000.0,['Jakarta'],0,-1.0,-1,0.0
+LUCID,0.0,1,11000000.0,['Banten'],0,-1.0,-1,0.0
+CUDA,0.0,2,15000000.0,['Jakarta'],284,-1.0,0,0.0
+LINQ,0.0,1,12264357.697674418,[],1000,-1.0,-1,0.0
+JOVIAL,0.0,2,12264357.697674418,['Jakarta'],0,-1.0,-1,0.0
+APL,0.05,3,6019884.435550963,['Jakarta'],0,-1.0,0,0.0
+BASIC A+,0.0,6,3509775.333982419,"['Yogyakarta', 'Jakarta']",0,-1.0,-1,0.0
+Cell,0.0,2,7407602.577650769,['Jakarta'],0,-1.0,-1,0.0
+MIMIC,0.0,4,5400189.961071825,"['East Java', 'West Java']",0,-1.0,-1,0.0
+Charity,0.0,2,6520336.743574051,"['West Nusa Tenggara', 'Central Java']",0,-1.0,-1,0.0
+Meson,0.0,1,12264357.697674418,['Jakarta'],0,-1.0,0,0.0
+DYNAMO,0.0,1,12264357.697674418,['Jakarta'],0,-1.0,-1,0.0
+Haskell,0.56,3,9026520.950991984,"['Central Java', 'Jakarta']",20,91.45045045045045,40,8.857143
+PLANNER,0.0,2,12264357.697674418,['Jakarta'],0,-1.0,-1,0.0
+Gherkin,0.0,3,6075217.678632851,['Jakarta'],1000,-1.0,0,0.0
+Objective-C,0.42,2,12264357.697674418,['Jakarta'],1600,-1.0,132,15.5
+frame,0.0,4,5278802.215552111,['Jakarta'],0,-1.0,-1,0.0
+Tea,0.0,1,31222900.0,['Jakarta'],0,-1.0,-1,0.0
+Sqlalchemy,0.0,6,3709826.3210376888,['Jakarta'],226,22.296296296296298,-1,11.66964
+Erlang,0.16,14,3291520.9981992943,['Jakarta'],101,-1.0,9,13.83929
+Sage,0.0,5,3193881.4513005977,['Banten'],0,87.45045045045045,-1,0.0
+Lisp,0.52,1,2550847.4576271186,['Central Java'],104,101.03703703703704,1,10.89286
+Lua,0.56,1,2550847.4576271186,['Central Java'],327,249.2882882882883,145,17.46429
+F#,0.15,1,2550847.4576271186,['Central Java'],0,-1.0,2,0.0
+bloom,0.0,3,3112134.04887096,['Central Java'],0,-1.0,-1,0.0
+score,0.0,4,2097275.7795171365,"['Bali', 'Jakarta']",0,-1.0,-1,0.0
+HL7,0.0,4,3055351.5542120533,['Jakarta'],60,-1.0,-1,0.0
+VBA,0.0,9,2669043.566689615,"['West Java', 'Jakarta']",3500,512.7567567567568,-1,69.3125
+ActionScript,0.05,3,3112134.04887096,['Jakarta'],1000,358.6216216216216,19,7.973214
+Elixir,0.16,4,3212282.5826624166,['Jakarta'],233,182.47142857142856,17,0.0
+MAPPER,0.0,1,3178571.571428572,['Jakarta'],0,-1.0,-1,0.0
+Boo,0.0,7,2400483.054421769,['Jakarta'],0,-1.0,0,3.88
+Pan,0.0,2,2902285.785714286,['Jakarta'],0,-1.0,0,0.0
+l2,0.0,13,5554524.992813157,"['Central Java', 'Jakarta']",0,-1.0,-1,0.0
+Augment,0.0,2,1895989.2583732056,['Jakarta'],0,-1.0,-1,0.0
+FP,0.0,2,776315.7894736842,['Jakarta'],0,-1.0,-1,0.0
+Vale,0.0,2,776315.7894736842,['Jakarta'],0,-1.0,-1,0.0
+candor,0.0,1,776315.7894736842,['West Java'],0,-1.0,-1,0.0
+Stata,0.05,1,776315.7894736842,['Riau Islands'],831,101.1801801801802,-1,19.95536
+Arc,0.0,1,3015662.727272727,['Jakarta'],0,-1.0,0,0.0
+DML,0.0,8,3062648.019556395,"['Yogyakarta', 'Jakarta']",0,-1.0,-1,61.0625
+IPL,0.0,1,3015662.727272727,['Riau Islands'],0,-1.0,-1,0.0
+XL,0.0,4,3732736.052989353,['Jakarta'],0,-1.0,-1,0.0
+Star,0.0,3,2975334.568968969,['Jakarta'],0,-1.0,-1,0.0
+fox,0.0,2,2840777.777777778,['Yogyakarta'],0,-1.0,-1,0.0
+LEAP,0.0,7,2382912.6984126987,['Jakarta'],0,-1.0,-1,0.0
+Dockerfile,0.0,1,5592859.090909091,['Jakarta'],88,-1.0,99,16.86905
+Dc,0.0,1,5592859.090909091,['Jakarta'],0,-1.0,-1,0.0
+VBScript,0.33,2,3327448.015974184,['Jakarta'],692,176.61261261261262,-1,21.36607
+CORAL,0.0,1,3244448.151351352,['Jakarta'],0,-1.0,-1,0.0
+UniVerse,0.0,1,1520833.3333333333,['Jakarta'],0,-1.0,-1,0.0
+C2,0.0,38,1560416.6666666665,"['South Kalimantan', 'Riau', 'West Java', 'Yogyakarta', 'East Java', 'Jakarta', 'Riau Islands', 'South Sulawesi', 'Central Java', 'Banten', 'North Sumatra', 'South Sumatra']",0,-1.0,-1,0.0
