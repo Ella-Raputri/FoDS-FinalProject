@@ -7,37 +7,29 @@ from selenium.webdriver.support import expected_conditions as EC
 import time, random
 import csv
 
-# Set up Chrome options and service
 options = Options()
 options.add_argument('--disable-gpu')
-# options.add_argument('--headless')  # Run headlessly (without opening the browser window)
 service = Service(executable_path="chromedriver.exe")
 
-# Initialize the WebDriver
 driver = webdriver.Chrome(service=service, options=options)
 
-# Open the JobStreet portal (adjust the search query as needed)
 driver.get('https://www.jobstreet.co.id/en/job-search/software-developer-jobs/')
 
-# Wait for the page to load
 time.sleep(10)
 
-# Function to scroll through the page
 def scroll_slowly(driver):
-    scroll_pause_time = random.uniform(0.5, 2.0)  # Randomize scroll pauses
+    scroll_pause_time = random.uniform(0.5, 2.0)  
     scroll_height = driver.execute_script("return document.body.scrollHeight")
     scroll_position = 0
 
     while scroll_position < scroll_height:
-        scroll_position += random.randint(200, 500)  # Random scroll distance
+        scroll_position += random.randint(200, 500)  
         driver.execute_script(f"window.scrollTo(0, {scroll_position});")
         time.sleep(scroll_pause_time)
 
-# Set the limit of job entries
 entry_limit = 1500
 entries_processed = 0
 
-# Open the CSV file for writing
 with open('jobstreet13.csv', mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     writer.writerow(['Job Title', 'Company Name', 'Location', 'Salary', 'Job Type', 'Job Description', 'Date'])
@@ -114,7 +106,6 @@ with open('jobstreet13.csv', mode='w', newline='', encoding='utf-8') as file:
                     print(f'job type: {job_type}')
                     print(f'salary: {salary}')
 
-                    # Write to CSV
                     writer.writerow([job_title, company_name, location, salary, job_type, job_description, jobdate])
                     entries_processed += 1
                     print(f"{entries_processed} jobs")
@@ -122,7 +113,6 @@ with open('jobstreet13.csv', mode='w', newline='', encoding='utf-8') as file:
                 except Exception as e:
                     print(f"Error scraping job: {e}")
 
-            # Move to the next page if available
             if entries_processed < entry_limit:
                 try:
                     next_button = WebDriverWait(driver, 10).until(
@@ -141,7 +131,6 @@ with open('jobstreet13.csv', mode='w', newline='', encoding='utf-8') as file:
             print(f"Error processing page: {e}")
             break
 
-# Close the browser
 driver.delete_all_cookies()
 
 driver.quit()
